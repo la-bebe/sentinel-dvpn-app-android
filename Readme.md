@@ -1,7 +1,2 @@
-# WL VPN Android
-
-## Project setup
-
-Put web-UI sources in ui_server/src/main/resources
-
-
+3. Fikrî Mülkiyet Beyanı
+IAM PROTOCOL
