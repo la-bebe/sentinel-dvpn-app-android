@@ -1,2 +1,2 @@
 3. Fikrî Mülkiyet Beyanı
-IAM PROTOCOL
+IAM-IAM-SENTINEL-PROTOCOL
